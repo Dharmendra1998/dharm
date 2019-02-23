@@ -1,2 +1,2 @@
 # dharm
-hello i lketo makeproject in thec language so pleasde help me 
+hello i like to make project in the c language so please help me 
